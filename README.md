@@ -10,7 +10,7 @@ CODE_ORGANIZATION: poo-corte3
 
 ---
 
-## 👥 Equipo
+## Equipo
 - **Integrante 1:** María Gabriela Ramón Vargas  
 - **Integrante 2:** Mariana Ruiz Dussan  
 - **Integrante 3:** Yeison Steven Quintero Pérez  
@@ -18,12 +18,12 @@ CODE_ORGANIZATION: poo-corte3
 
 ---
 
-## 📚 Asignatura
+## Asignatura
 **Programación Orientada a Objetos – Corte 3**
 
 ---
 
-## 📂 Organización en GitHub
+## Organización en GitHub
 Este proyecto está organizado en la institución **poo-corte3** y se divide en tres repositorios principales:
 
 - [docs-project](https://github.com/poo-corte3/docs-project) → Documentación, evidencias y soporte.  
@@ -32,6 +32,6 @@ Este proyecto está organizado en la institución **poo-corte3** y se divide en 
 
 ---
 
-## 📝 Descripción
+## Descripción
 Este repositorio contiene la parte correspondiente del proyecto de curso.  
 La entrega se organiza en tres repositorios separados para documentación, manual web y proyecto funcional, cumpliendo con los criterios de la asignatura.
